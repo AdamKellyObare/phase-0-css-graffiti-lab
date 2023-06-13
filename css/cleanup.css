@@ -1,1 +1,23 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+#wall .parent .slick {
+    display: none;
+}
+#wall .parent {
+    display: none;
+}
+#wall .tag-2 {
+display: none;
+}
+.parent {
+    display: none;
+}
+#tag-6 {
+    display: flex;
+}
+.parent .slick {
+    display: none;
+    font-display: 90px;
+}
